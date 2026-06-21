@@ -4,7 +4,7 @@ A modern developer portfolio built with **HTML, CSS, and JavaScript** — no fra
 
 This portfolio represents **CodeXpert Dev**, a passionate software developer, tech enthusiast, and content creator focused on helping developers learn, build, and grow.
 
-🌐 **Live Website:** https://codexpert-dev.me
+🌐 **Live Website:** https://codexpertdev.github.io/codexpert/
 
 ---
 
@@ -40,25 +40,23 @@ I enjoy building modern web applications, exploring new technologies, and sharin
 ### 🗺️ Interactive Journey Timeline
 
 * 📍 Developer Journey Visualization
-* 🇮🇳 Ahmedabad-Based Map Integration
+* 🇮🇳 Map-Based Integration
 * 🎯 Career & Learning Milestones
 * 🚀 Growth Timeline
 
 ### 🛠️ Skills Showcase
 
-* Frontend Development
-* Backend Development
-* Cloud & DevOps
-* Databases
-* Tools & Technologies
-* Software Architecture
+* ⚛️ Frontend Development
+* 🚀 Backend Development
+* ☁️ Cloud & DevOps
+* 🗄️ Databases
+* 🛠️ Tools & Technologies
+* 🏗️ Software Architecture
 
 ### 📬 Social Integration
 
 * 🐙 GitHub
-* 💼 LinkedIn
 * 📸 Instagram
-* 📧 Email
 
 ---
 
@@ -66,47 +64,43 @@ I enjoy building modern web applications, exploring new technologies, and sharin
 
 ## 🎨 Frontend
 
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* React.js
-* Tailwind CSS
-* Bootstrap
+* 🌐 HTML5
+* 🎨 CSS3
+* 🧠 JavaScript
+* 📘 TypeScript
+* ⚛️ React.js
+* 💨 Tailwind CSS
+* 🅱️ Bootstrap
 
 ## ⚙️ Backend
 
-* Node.js
-* Express.js
-* Python
-* Firebase
-* REST APIs
-* JWT Authentication
+* 🟢 Node.js
+* 🐍 Python
+* 🔥 Firebase
+* 🔗 REST APIs
 
 ## ☁️ Cloud & DevOps
 
-* Google Cloud Platform (GCP)
-* Amazon Web Services (AWS)
-* Docker
-* GitHub Actions
-* CI/CD
+* ☁️ Google Cloud Platform (GCP)
+* 🟧 Amazon Web Services (AWS)
+* 🐙 GitHub Actions
+* 🔄 CI/CD
 
 ## 🗄️ Databases
 
-* MongoDB
-* MySQL
-* PostgreSQL
-* Firebase Firestore
-* Redis
+* 🍃 MongoDB
+* 🐬 MySQL
+* 🐘 PostgreSQL
+* 🔥 Firebase Firestore
 
 ## 🔨 Tools
 
-* Git
-* GitHub
-* VS Code
-* Terminal
-* Postman
-* AI Development Tools
+* 🌿 Git
+* 🐙 GitHub
+* 💻 VS Code
+* 🖥️ Terminal
+* 📬 Postman
+* 🤖 AI Development Tools
 
 ---
 
@@ -116,34 +110,9 @@ I enjoy building modern web applications, exploring new technologies, and sharin
 .
 ├── index.html
 ├── neo-styles.css
-├── script.js
 ├── favicon.svg
-├── robots.txt
-├── sitemap.xml
 ├── README.md
 └── image/
-```
-
----
-
-# 🚀 Run Locally
-
-### Using Node.js
-
-```bash
-npx serve .
-```
-
-### Using Python
-
-```bash
-python -m http.server 8000
-```
-
-Open:
-
-```text
-http://localhost:8000
 ```
 
 ---
@@ -170,23 +139,14 @@ This portfolio aims to:
 
 ---
 
-# 🌐 Connect With Me
+## 📱 Connect With Me
 
-### 🐙 GitHub
+🚀 Follow **@codexpert_dev** for high-quality coding content, project tutorials, and source code examples.
 
-https://github.com/yourusername
+📸 Instagram: https://www.instagram.com/codexpert_dev/
 
-### 💼 LinkedIn
+🐙 GitHub: https://github.com/codexpertdev
 
-https://linkedin.com/in/yourusername
-
-### 📸 Instagram
-
-https://instagram.com/codexpert_dev
-
-### 📧 Email
-
-[hello@codexpert-dev.me](mailto:hello@codexpert-dev.me)
 
 ---
 
@@ -199,14 +159,6 @@ If you like this portfolio, consider:
 📢 Sharing it with fellow developers
 
 🤝 Following my developer journey
-
----
-
-# 📜 License
-
-© 2026 CodeXpert Dev. All Rights Reserved.
-
-This portfolio is intended for personal branding and showcase purposes. Please do not copy or redistribute content without permission.
 
 ---
 
